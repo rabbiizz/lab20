@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:นางสาวศุภกานต์ ขันคำ
+# STUDENT ID:660610848
